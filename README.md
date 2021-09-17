@@ -1,7 +1,5 @@
 # Cronometro
 Cronometro
-# BMI Calculator
-
 <img src="assets/Cronometro.gif" alt="gif mostrando na prática">
 
 <h2 id="objetivo">Objetivo:</h2>
