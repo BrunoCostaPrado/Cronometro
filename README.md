@@ -1,6 +1,5 @@
 # Cronometro
-Cronometro
-
+<img src="assets/Cronometro.gif" alt="gif mostrando na prática">
 
 <h2 id="objetivo">Objetivo:</h2>
 <p>
